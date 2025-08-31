@@ -1,5 +1,9 @@
 Featured Project: [Fluid-Sims](https://github.com/seanwevans/fluid-sims/)
 
+Video: A 2-D CUDA solver for viscous Burgers’ flow
+
+https://github.com/user-attachments/assets/19409252-181f-4162-bbd9-970239427b1f
+
 Video: 2-D shallow-water in log-time (tau) with log-depth (sigma = ln h) Flux-form finite volume with HLL Riemann solver (positivity-preserving) adaptive dt via CFL on the τ-clock (dt_eff = min(t*dtau, CFL*dx/cmax)), optional explicit viscosity on momentum
 
 https://github.com/user-attachments/assets/2d664af1-662b-49a4-9d7e-dda5710ed6e2
