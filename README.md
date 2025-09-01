@@ -1,5 +1,9 @@
 Featured Project: [Fluid-Sims](https://github.com/seanwevans/fluid-sims/)
 
+Video: 2-D CUDA-accelerated SPH fluid simulator
+
+https://github.com/user-attachments/assets/a18f274d-f7ff-45e5-adf1-a8898b76c65f
+
 Video: A 2-D CUDA solver for viscous Burgers’ flow
 
 https://github.com/user-attachments/assets/19409252-181f-4162-bbd9-970239427b1f
@@ -12,6 +16,6 @@ Video: A CUDA-based 3D fluid dynamics simulator
 
 https://github.com/user-attachments/assets/c80b3505-f605-4a49-815f-2f64e1824464
 
-Video: A CUDA-based 2D fluid dynamics simulator
+Video: A CUDA-based 2-D fluid dynamics simulator
 
 https://github.com/user-attachments/assets/b7bbda96-7fec-4abb-9a80-bc461a0edaa6
