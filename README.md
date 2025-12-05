@@ -1,5 +1,5 @@
-Featured Project: [Fluid-Sims](https://github.com/seanwevans/fluid-sims/)
+Featured Project: [Oriel](https://github.com/seanwevans/Oriel/)
 
-Video: A CUDA-based 3D fluid dynamics simulator
+Image: A simulated operating system
 
-https://github.com/user-attachments/assets/b6ebef66-554e-477c-8204-cc5b7d855403
+<img width="3831" height="1821" alt="screen" src="https://github.com/user-attachments/assets/4d311a8f-71d5-4002-bee2-1cb6909c6827" />
