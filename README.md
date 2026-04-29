@@ -1,5 +1,5 @@
-Featured Project: [Oriel](https://github.com/seanwevans/Oriel/)
+Featured Project: [Alina's Playhouse](https://github.com/seanwevans/Alinas-Playhouse/)
 
-Image: A simulated operating system
+Image: A dollhouse game
 
-<img  alt="screen" src="https://github.com/user-attachments/assets/4d311a8f-71d5-4002-bee2-1cb6909c6827" />
+<img alt="Alina's Playhouse" src="https://github.com/user-attachments/assets/de3f8550-58bf-44e1-b8bf-efb13fe82ce5" />
