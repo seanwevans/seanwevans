@@ -1,3 +1,5 @@
+Gists: [Gists](https://gist.github.com/seanwevans/)
+
 Featured Project: [Alina's Playhouse](https://github.com/seanwevans/Alinas-Playhouse/)
 
 Image: A dollhouse game
