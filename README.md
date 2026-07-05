@@ -1,3 +1,6 @@
+I build systems experiments: 
+small languages, protocol tools, database runtimes, GPU simulations, homebrew games, security toys, file formats, civic tools, and odd interfaces.
+
 Most of these repositories are prototypes, sketches, or labs. 
 Some are closer to usable projects; others are preserved because the idea is useful. 
 The table below is the current map.
