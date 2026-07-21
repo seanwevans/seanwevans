@@ -58,6 +58,7 @@ Gists are located [here](https://gist.github.com/seanwevans/)
 | [pieman](https://github.com/seanwevans/pieman) | 0 | 0 | A simple, configurable neural network optimized using AVX. |
 | [Pipe-Lion](https://github.com/seanwevans/Pipe-Lion) | 0 | 0 | Browser-first packet inspection playground. It pairs a high-performance WebAssembly-powered Rust core with a modern React/TypeScript web interface, allowing users to drag-and-drop .pcap or .pcapng files and analyze packet traces locally without a backend. |
 | [PyIsolate](https://github.com/seanwevans/PyIsolate) | 0 | 0 | PyIsolate is a multi-tenant Python execution fabric built on free-threaded CPython, where subinterpreters become cheap, parallel execution cells and policy/runtime machinery makes them operationally usable. |
+| [pynq_butterfly](https://github.com/seanwevans/pynq_butterfly) | 0 | 0 | FPGA accelerator for exact OpenFHE DCRTPoly polynomial multiplication in Z_q[X]/(X^4096+1), on a PYNQ-Z2 (XC7Z020) |
 | [r3d](https://github.com/seanwevans/r3d) | 0 | 0 | A React-based 3D template |
 | [raft-vm](https://github.com/seanwevans/raft-vm) | 2 | 0 | A lightweight VM designed to provide concurrency, fault tolerance, and actor-based message-passing models. |
 | [SafeLang](https://github.com/seanwevans/SafeLang) | 0 | 0 | A language based on NASA's "The Power of 10: Rules for Developing Safety-Critical Code" |
