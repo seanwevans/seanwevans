@@ -13,6 +13,7 @@ Gists are located [here](https://gist.github.com/seanwevans/)
 | [an-ki](https://github.com/seanwevans/an-ki) | 2 | 0 | Distributed neural network project built with Rust that supports task scheduling, load balancing, and fault tolerance across a network of nodes. It leverages asynchronous operations, leader election, and health monitoring to ensure high availability and scalability for secure inter-node communication. |
 | [Baloo](https://github.com/seanwevans/Baloo) | 0 | 0 | Collection of 150 essential UNIX utilities written in pure x86_64 assembly using direct syscalls. No libc, no dependencies, just the bear necessities of life. |
 | [Bambusa](https://github.com/seanwevans/Bambusa) | 0 | 0 | A branchless programming language |
+| [bird](https://github.com/seanwevans/bird) | 0 | 0 | a flight simulator |
 | [Blast](https://github.com/seanwevans/Blast) | 0 | 0 | A high-throughput SQLite table dumper |
 | [bomb-mopper](https://github.com/seanwevans/bomb-mopper) | 0 | 0 | minesweeper clone in react |
 | [braggard](https://github.com/seanwevans/braggard) | 0 | 0 | Scrape a GitHub users' repositories and showcase them |
@@ -31,6 +32,7 @@ Gists are located [here](https://gist.github.com/seanwevans/)
 | [flags-of-the-world](https://github.com/seanwevans/flags-of-the-world) | 0 | 0 | The flags of the world in css |
 | [fluid-sims](https://github.com/seanwevans/fluid-sims) | 62 | 3 | Collection of high-performance, CUDA-accelerated fluid dynamics and physics simulators, including SPH, hypersonic flow, and reaction-diffusion systems. |
 | [GDSL](https://github.com/seanwevans/GDSL) | 0 | 0 | A DSL that expresses GPU state transitions, command buffer composition, and VRAM residency semantics directly, in a vendor-neutral way. |
+| [Geez-Ball](https://github.com/seanwevans/Geez-Ball) | 0 | 0 | clone of jezzball |
 | [gh-status](https://github.com/seanwevans/gh-status) | 0 | 0 | Realtime status dashboard for GitHub build processes |
 | [Ghast](https://github.com/seanwevans/Ghast) | 3 | 1 | Security auditing and remediation tool for GitHub Actions workflows that detects vulnerabilities, misconfigurations, and anti-patterns based on industry best practices. |
 | [Image-Report](https://github.com/seanwevans/Image-Report) | 0 | 0 | Generate XML reports from image data. |
@@ -74,6 +76,7 @@ Gists are located [here](https://gist.github.com/seanwevans/)
 | [stree](https://github.com/seanwevans/stree) | 0 | 0 | tree, but slower |
 | [sysview](https://github.com/seanwevans/sysview) | 0 | 0 | Uses Ebpf to generate real-time visualizations from your syscalls |
 | [Tag0](https://github.com/seanwevans/Tag0) | 0 | 0 | Implements type-tagged values based on an academic paper. |
+| [Tensor-Ball](https://github.com/seanwevans/Tensor-Ball) | 0 | 0 | A massive-batch reinforcement learning environment in the browser. Trains a CNN agent to play basketball using Three.js, Cannon-es, and TensorFlow.js. |
 | [testdata](https://github.com/seanwevans/testdata) | 0 | 0 | test data I've collected |
 | [Totem](https://github.com/seanwevans/Totem) | 0 | 0 | A no-syntax-error programming language |
 | [Tranche](https://github.com/seanwevans/Tranche) | 0 | 0 | Actuarial multi-CDN failover control plane that reroutes traffic off any CDN/edge provider during outages. |
