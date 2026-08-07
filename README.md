@@ -8,7 +8,7 @@ Gists are located [here](https://gist.github.com/seanwevans/)
 
 | Repository | Stars | Forks | Description |
 | ---------- | ----- | ----- | ----------- |
-| [4splat](https://github.com/seanwevans/4splat) | 12 | 1 | Binary format and reference implementation for 4Splat (.4spl). Palette-based, lossless 4D video codec that generalizes indexed-color images to  spatiotemporal data with Gaussian splats |
+| [4splat](https://github.com/seanwevans/4splat) | 13 | 1 | Binary format and reference implementation for 4Splat (.4spl). Palette-based, lossless 4D video codec that generalizes indexed-color images to  spatiotemporal data with Gaussian splats |
 | [Alinas-Playhouse](https://github.com/seanwevans/Alinas-Playhouse) | 0 | 0 | A dollhouse game |
 | [an-ki](https://github.com/seanwevans/an-ki) | 2 | 0 | Distributed neural network project built with Rust that supports task scheduling, load balancing, and fault tolerance across a network of nodes. It leverages asynchronous operations, leader election, and health monitoring to ensure high availability and scalability for secure inter-node communication. |
 | [Baloo](https://github.com/seanwevans/Baloo) | 0 | 0 | Collection of 150 essential UNIX utilities written in pure x86_64 assembly using direct syscalls. No libc, no dependencies, just the bear necessities of life. |
@@ -53,14 +53,14 @@ Gists are located [here](https://gist.github.com/seanwevans/)
 | [Oriel](https://github.com/seanwevans/Oriel) | 0 | 0 | Retro desktop simulation built with vanilla HTML, CSS, and JavaScript, featuring a diverse collection of integrated applications, classic games, and system utilities. |
 | [pg_browser](https://github.com/seanwevans/pg_browser) | 0 | 0 | A browser in postgres |
 | [pg_git](https://github.com/seanwevans/pg_git) | 1 | 0 | PostgreSQL-native Git implementation providing full version control functionality including core operations, branching, merging, and remote transport directly within the database.. |
-| [pg_gpt2](https://github.com/seanwevans/pg_gpt2) | 2 | 0 | Complete implementation of the GPT-2 architecture entirely inside PostgreSQL, featuring a native tensor engine, autograd, and AdamW optimization for end-to-end training and inference via SQL. |
+| [pg_gpt2](https://github.com/seanwevans/pg_gpt2) | 3 | 0 | Complete implementation of the GPT-2 architecture entirely inside PostgreSQL, featuring a native tensor engine, autograd, and AdamW optimization for end-to-end training and inference via SQL. |
 | [pg_os](https://github.com/seanwevans/pg_os) | 3 | 0 | PostgreSQL extension providing operating system-level functionality directly through SQL, enabling process management, file system operations, IPC, and system monitoring within the database environment. |
 | [pg_shell](https://github.com/seanwevans/pg_shell) | 4 | 0 | Stateless, auditable, and replayable command shell built entirely on PostgreSQL and htmx. It replaces persistent shell processes with database-backed terminal sessions, where every command, output, and environment change is recorded in real-time. |
 | [pg_ttd](https://github.com/seanwevans/pg_ttd) | 0 | 0 | openTTD clone in postgres |
 | [pieman](https://github.com/seanwevans/pieman) | 0 | 0 | A simple, configurable neural network optimized using AVX. |
 | [Pipe-Lion](https://github.com/seanwevans/Pipe-Lion) | 0 | 0 | Browser-first packet inspection playground. It pairs a high-performance WebAssembly-powered Rust core with a modern React/TypeScript web interface, allowing users to drag-and-drop .pcap or .pcapng files and analyze packet traces locally without a backend. |
 | [PyIsolate](https://github.com/seanwevans/PyIsolate) | 0 | 0 | PyIsolate is a multi-tenant Python execution fabric built on free-threaded CPython, where subinterpreters become cheap, parallel execution cells and policy/runtime machinery makes them operationally usable. |
-| [pynq_butterfly](https://github.com/seanwevans/pynq_butterfly) | 0 | 0 | FPGA accelerator for exact OpenFHE DCRTPoly polynomial multiplication in Z_q[X]/(X^4096+1), on a PYNQ-Z2 (XC7Z020) |
+| [pynq_butterfly](https://github.com/seanwevans/pynq_butterfly) | 1 | 0 | FPGA accelerator for exact OpenFHE DCRTPoly polynomial multiplication in Z_q[X]/(X^4096+1), on a PYNQ-Z2 (XC7Z020) |
 | [r3d](https://github.com/seanwevans/r3d) | 0 | 0 | A React-based 3D template |
 | [raft-vm](https://github.com/seanwevans/raft-vm) | 2 | 0 | A lightweight VM designed to provide concurrency, fault tolerance, and actor-based message-passing models. |
 | [SafeLang](https://github.com/seanwevans/SafeLang) | 0 | 0 | A language based on NASA's "The Power of 10: Rules for Developing Safety-Critical Code" |
