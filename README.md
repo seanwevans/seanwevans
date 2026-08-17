@@ -108,28 +108,6 @@ The larger experiment is whether a relational database can serve as a general co
 
 ---
 
-### [WarpDB](https://github.com/seanwevans/WarpDB)
-
-**A GPU query engine that compiles data operations into CUDA**
-
-WarpDB parses SQL-like expressions into an abstract syntax tree, generates CUDA code from the resulting representation, compiles kernels at runtime using NVRTC, and executes them directly against GPU-resident data.
-
-It includes:
-
-* expression parsing and AST generation
-* CUDA kernel code generation
-* runtime NVRTC compilation
-* GPU filtering and projection
-* column statistics and simple optimization
-* Arrow integration
-* Python bindings
-* multi-GPU execution
-* streaming execution for datasets larger than device memory
-
-The central idea is simple: instead of building a large fixed set of GPU query operators, generate the computation required by the query itself.
-
----
-
 ### [4splat](https://github.com/seanwevans/4splat)
 
 **An experimental lossless representation for spatiotemporal data**
