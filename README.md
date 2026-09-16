@@ -178,32 +178,3 @@ That usually means some combination of:
 * unusual representations of computation
 
 The recurring goal is to find the representation that makes the hard part easy.
-
----
-
-## Project Index
-
-
-| Repository | Stars | Forks | Description |
-| ---------- | ----- | ----- | ----------- |
-| [4splat](https://github.com/seanwevans/4splat) | 13 | 1 | Binary format and reference implementation for 4Splat (.4spl). Palette-based, lossless 4D video codec that generalizes indexed-color images to  spatiotemporal data with Gaussian splats |
-| [Alinas-Playhouse](https://github.com/seanwevans/Alinas-Playhouse) | 0 | 0 | A dollhouse game |
-| [an-ki](https://github.com/seanwevans/an-ki) | 2 | 0 | Distributed neural network project built with Rust that supports task scheduling, load balancing, and fault tolerance across a network of nodes. It leverages asynchronous operations, leader election, and health monitoring to ensure high availability and scalability for secure inter-node communication. |
-| [Baloo](https://github.com/seanwevans/Baloo) | 0 | 0 | Collection of 150 essential UNIX utilities written in pure x86_64 assembly using direct syscalls. No libc, no dependencies, just the bear necessities of life. |
-| [bird](https://github.com/seanwevans/bird) | 0 | 0 | a flight simulator |
-| [Creative-Writing](https://github.com/seanwevans/Creative-Writing) | 0 | 0 | My Creative Writing Experiments |
-| [egg-file-format](https://github.com/seanwevans/egg-file-format) | 0 | 0 | The Egg File Format |
-| [fluid-sims](https://github.com/seanwevans/fluid-sims) | 62 | 3 | Collection of high-performance, CUDA-accelerated fluid dynamics and physics simulators, including SPH, hypersonic flow, and reaction-diffusion systems. |
-| [gh-status](https://github.com/seanwevans/gh-status) | 0 | 0 | Realtime status dashboard for GitHub build processes |
-| [Ghast](https://github.com/seanwevans/Ghast) | 3 | 1 | Security auditing and remediation tool for GitHub Actions workflows that detects vulnerabilities, misconfigurations, and anti-patterns based on industry best practices. |
-| [lockstep](https://github.com/seanwevans/lockstep) | 12 | 0 | Data-oriented systems programming language for high-throughput, deterministic compute pipelines, enforcing a straight-line SIMD execution model and static memory topology for maximum CPU vectorization. |
-| [Oriel](https://github.com/seanwevans/Oriel) | 0 | 0 | Retro desktop simulation built with vanilla HTML, CSS, and JavaScript, featuring a diverse collection of integrated applications, classic games, and system utilities. |
-| [pg_gpt2](https://github.com/seanwevans/pg_gpt2) | 3 | 0 | Complete implementation of the GPT-2 architecture entirely inside PostgreSQL, featuring a native tensor engine, autograd, and AdamW optimization for end-to-end training and inference via SQL. |
-| [pg_shell](https://github.com/seanwevans/pg_shell) | 4 | 0 | Stateless, auditable, and replayable command shell built entirely on PostgreSQL and htmx. It replaces persistent shell processes with database-backed terminal sessions, where every command, output, and environment change is recorded in real-time. |
-| [PyIsolate](https://github.com/seanwevans/PyIsolate) | 0 | 0 | PyIsolate is a multi-tenant Python execution fabric built on free-threaded CPython, where subinterpreters become cheap, parallel execution cells and policy/runtime machinery makes them operationally usable. |
-| [pynq_butterfly](https://github.com/seanwevans/pynq_butterfly) | 1 | 0 | FPGA accelerator for exact OpenFHE DCRTPoly polynomial multiplication in Z_q[X]/(X^4096+1), on a PYNQ-Z2 (XC7Z020) |
-| [raft-vm](https://github.com/seanwevans/raft-vm) | 2 | 0 | A lightweight VM designed to provide concurrency, fault tolerance, and actor-based message-passing models. |
-| [sean](https://github.com/seanwevans/sean) | 0 | 0 | The de-facto primitives |
-| [Spreadsheet-Page-Description-Language](https://github.com/seanwevans/Spreadsheet-Page-Description-Language) | 0 | 0 | a spreadsheet page description language |
-| [Tensor-Ball](https://github.com/seanwevans/Tensor-Ball) | 0 | 0 | A massive-batch reinforcement learning environment in the browser. Trains a CNN agent to play basketball using Three.js, Cannon-es, and TensorFlow.js. |
-| [WarpDB](https://github.com/seanwevans/WarpDB) | 0 | 0 | GPU-accelerated SQL query engine that leverages CUDA JIT compilation to dynamically generate optimized kernels for high-performance analytical workloads and multi-GPU data processing. |
