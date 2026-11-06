@@ -16,6 +16,39 @@ Gists are located [here](https://gist.github.com/seanwevans/)
 
 ## Featured Work
 
+### [PrimeTensor-NS](https://github.com/seanwevans/primetensor-ns)
+
+**A Lean 4 formalization program for 3-D Navier–Stokes regularity**
+
+PrimeTensor-NS is a Lean 4 / mathlib development aimed at the regularity question for the incompressible Navier–Stokes equations on ℝ³: the unforced, smooth-data form of the Clay Millennium problem.
+
+It does not claim to solve that problem. The goal is to formalize as far toward the open frontier as possible, and then state that frontier as an explicit proposition in Lean instead of hiding it in an informal gap.
+
+The development is built on its own foundation. Dimensions begin at one with no zeroth constructor, and magnitudes are assembled multiplicatively from prime factor chains before being bridged into mathlib's analysis.
+
+Current results include:
+
+* exact physical Schwartz energy identities for H³ paths
+* conditional continuation criteria at a terminal time `T`
+* a proof that every fixed preterminal high-frequency dissipation tail vanishes, so any obstruction has to come from failure of *uniformity* as `t → T`
+* an equivalence between uniform tail vanishing and bounded canonical cutoff scales near `T`
+* a coercive-weight formulation needing no monotonicity or sign assumptions on the radial weight
+* neutral endpoint alternatives: smooth continuation, or a specific, named form of terminal frequency escape
+
+Scale and rigor:
+
+* ~3,300 Lean modules, ~1.1M lines
+* ~15,000 theorems and lemmas
+* no `sorry` and no project axioms
+* CI-enforced audit of source coverage, theorem contracts, and axiom reports
+* prose LaTeX renderings of selected modules alongside the Lean source
+
+The repository is explicit about what is *not* proved. It records where its criteria overlap with known results in the literature, which standard estimates still need formalizing, and why generic Hölder/Sobolev arguments cannot close the problem without genuinely new PDE structure.
+
+The larger experiment is how far a machine-checked development can be pushed into an open problem while keeping an exact, auditable line between what is proved and what is assumed.
+
+---
+
 ### [pynq_butterfly](https://github.com/seanwevans/pynq_butterfly)
 
 **Exact FPGA acceleration for homomorphic encryption**
@@ -175,6 +208,7 @@ That usually means some combination of:
 * distributed systems
 * machine-learning infrastructure
 * mathematical modeling
+* formal verification and theorem proving
 * unusual representations of computation
 
 The recurring goal is to find the representation that makes the hard part easy.
