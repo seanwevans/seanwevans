@@ -117,30 +117,6 @@ The repository is a laboratory for numerical methods, GPU execution models, visu
 
 ---
 
-### [pg_gpt2](https://github.com/seanwevans/pg_gpt2)
-
-**GPT-2 implemented entirely inside PostgreSQL**
-
-A complete GPT-2 implementation in which PostgreSQL acts simultaneously as the model store, tensor runtime, computational graph, optimizer state store, and execution environment.
-
-The system includes:
-
-* native C tensor operations
-* reverse-mode automatic differentiation
-* relational autograd tape
-* GPT-2 attention and feed-forward layers
-* AdamW optimization
-* BPE tokenization
-* checkpointing
-* training and inference
-* SQL-driven text generation
-
-Every model operation is represented through database state and transactions.
-
-The larger experiment is whether a relational database can serve as a general computational runtime rather than merely storing inputs and outputs for one.
-
----
-
 ### [4splat](https://github.com/seanwevans/4splat)
 
 **An experimental lossless representation for spatiotemporal data**
@@ -159,56 +135,3 @@ The project includes:
 * lossless reconstruction
 
 The broader question is whether representations normally associated with images can be generalized into useful structures over space-time.
-
----
-
-## Other Experiments
-
-The rest of this account is my working laboratory.
-
-It includes:
-
-**Programming languages & compilers**
-branchless languages, safety-constrained languages, no-syntax-error languages, declarative ML languages, regular-expression engines, DSLs, interpreters, and unusual execution models.
-
-**Databases & runtimes**
-PostgreSQL-native Git, shells, operating-system interfaces, browsers, ML runtimes, schema compilers, and other experiments in treating the database as a computational substrate.
-
-**GPU & parallel computing**
-CUDA simulation, GPU databases, cellular automata, reinforcement-learning environments, cryptographic accelerators, and performance experiments.
-
-**Distributed systems**
-consensus experiments, actor-style VMs, distributed ML execution, failover systems, and network-topology tools.
-
-**Low-level systems**
-x86-64 assembly utilities, eBPF experiments, custom servers, binary formats, compression, PRNGs, and syscall-level tooling.
-
-**Mathematical experiments**
-fractals, dynamical systems, cryptography, simulation, alternate computational representations, and small mathematical investigations.
-
-**Interesting Things**
-games, civic software, weird interfaces, protocol tools, visualization experiments, and ideas that were worth implementing even when they had no obvious product attached.
-
----
-
-## What I Like Working On
-
-I am particularly interested in problems where the obvious implementation is too slow, too complicated, or based on the wrong abstraction.
-
-That usually means some combination of:
-
-* algorithms
-* scientific computing
-* high-performance computing
-* GPU and FPGA acceleration
-* compiler construction
-* programming-language design
-* numerical methods
-* database internals
-* distributed systems
-* machine-learning infrastructure
-* mathematical modeling
-* formal verification and theorem proving
-* unusual representations of computation
-
-The recurring goal is to find the representation that makes the hard part easy.
